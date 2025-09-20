@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NaserTahiri
 - 👀 I’m interested in coding, data analysis and learning everything about data.
-- 🌱 I’m currently learning docker, Python and Jenkins
-- 💞️ I’m looking to collaborate on learning new technologies.
+- 🌱 I’m currently learning a lot, literally a lot.
+- 💞️ I’m learning new technologies.
 - 📫 How to reach me : https://www.linkedin.com/in/naser-tahiri/
 
 <!---
